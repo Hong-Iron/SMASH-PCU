@@ -20,5 +20,68 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "배재21세기관": {
+      "style": "stone",
+      "wall": "#3a3d42",
+      "glass": "#2f3d4c",
+      "frame": "#c9ccd0"
+    },
+    "예술관": {
+      "style": "ribbon",
+      "wall": "#c9cfca",
+      "glass": "#3b4a55",
+      "frame": "#e3e6e2"
+    },
+    "국제교류관": {
+      "style": "ribbon",
+      "wall": "#b8c4cf",
+      "glass": "#3d5f8f",
+      "frame": "#d0d6dc"
+    },
+    "자연과학관": {
+      "style": "brick",
+      "wall": "#7d3c36",
+      "glass": "#2c343b",
+      "frame": "#e6d8d2"
+    },
+    "국제언어생활관": {
+      "style": "dorm",
+      "wall": "#7d8aa6",
+      "glass": "#34404f",
+      "frame": "#bfc4c8"
+    },
+    "아펜젤러 기념관": {
+      "style": "glass",
+      "wall": "#c9d3dc",
+      "glass": "#4e6f9a",
+      "frame": "#2d5fa8"
+    },
+    "우남관": {
+      "style": "glass",
+      "wall": "#e8e6e0",
+      "glass": "#2f5f9c",
+      "frame": "#e09a3a"
+    },
+    "하워드기념관": {
+      "style": "glass",
+      "wall": "#d6d6d2",
+      "glass": "#4a5b66",
+      "frame": "#b9bdbf"
+    },
+    "배재대학교 중앙도서관": {
+      "style": "stone",
+      "wall": "#e3ddd2",
+      "glass": "#4a5866",
+      "frame": "#b9b4ab"
+    },
+    "미래창조관": {
+      "style": "glass",
+      "wall": "#a99b8e",
+      "glass": "#5d84a6",
+      "frame": "#c7ccd0"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
