@@ -1,0 +1,34 @@
+{
+ "region": "대전 서구 도마동",
+ "nameEn": "Pai Chai University",
+ "added": "2026-10-24T16:30",
+ "rank": 80,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "DST",
+   "campus": "대전과학기술대학교",
+   "km": 2.2
+  },
+  {
+   "code": "MOKWON",
+   "campus": "목원대학교",
+   "km": 2.5
+  },
+  {
+   "code": "KONYANG-DAEJEON",
+   "campus": "건양대학교 대전메디컬캠퍼스",
+   "km": 2.5
+  },
+  {
+   "code": "CNU-BOWOON",
+   "campus": "충남대학교 보운캠퍼스",
+   "km": 4.2
+  },
+  {
+   "code": "KAIST",
+   "campus": "KAIST 대전 본원",
+   "km": 5.5
+  }
+ ]
+}
